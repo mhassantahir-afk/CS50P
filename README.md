@@ -29,11 +29,6 @@
 
 ## 📝 Problem Sets by Week
 
-> Each problem set includes a short description and organized file names.  
-> 🚫 **No solutions provided** in this README to respect academic integrity.
-
----
-
 ### 🔹 Week 0 – Pset0
 
 - `indoor.py` – Convert text to lowercase.
