@@ -7,6 +7,12 @@
 
 ---
 
+## Certificate
+
+<img src="https://certificates.cs50.io/3568dffa-e4d6-4954-b845-410536ec4a1b.png?size=A4">
+
+---
+
 ## 🎥 Lecture Overview
 
 1. Lecture 0 – Functions & Variables  
@@ -111,7 +117,3 @@
 - `shirtificate.py` – Use OOP and fpdf2 to generate certificates.
 
 ---
-
-## Certificate
-
-<img src="https://certificates.cs50.io/3568dffa-e4d6-4954-b845-410536ec4a1b.png?size=A4">
